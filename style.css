@@ -1,0 +1,97 @@
+*{
+    
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    
+    align-content: center;
+    margin-top: 50px;
+    background-color: rgb(179, 209, 209);
+}
+
+h2{
+    
+    padding: 10px;
+    text-align: center;
+    background-color: rgba(16, 37, 37, 0.753);
+    color: bisque;
+}
+    
+h1{
+    
+    padding: 10px;
+    text-align: center;
+    background-color: rgba(16, 37, 37, 0.753);
+    color: bisque;
+    
+    
+    
+    
+}
+select{
+    text-align: left;
+    border: none;
+    padding: 5px;
+    background-color: rgba(16, 37, 37, 0.753);
+    color: bisque;
+    
+}
+
+table{
+    
+    background-color: rgba(16, 37, 37, 0.753);
+    color: bisque;
+    width: max-content;
+    
+    
+}
+
+.container{
+    
+    border: solid 1px;
+    margin-top: 60px;
+    width: min-content;
+    background-color: rgba(42, 63, 63, 0.753);
+    padding: 15px;
+}
+
+.all{
+    text-align: center;
+}
+
+tr th{
+    padding: 15px;
+    text-align: center;
+}
+
+select{
+    margin-bottom: 15px;
+}
+
+button{
+    margin-top: 15px;
+    color: bisque;
+    background-color:rgba(16, 37, 37, 0.753) ;
+    padding: 10px;
+    border: none;
+    border: solid 1px rgba(16, 37, 37, 0.753);
+    
+}
+
+button:hover{
+    background-color: rgba(19, 26, 26, 0.753);
+    transition: 0.5s ease all;
+    color: rgb(212, 192, 166);
+    cursor: pointer;
+}
+
+footer{
+    margin-top: 350px;
+    font-size: 12px;
+    color: bisque;
+    background-color:rgba(16, 37, 37, 0.753) ;
+    text-align: center;
+    
+}
+
